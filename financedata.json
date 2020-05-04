@@ -4,17 +4,49 @@
             "Company":"Enron",
             "CompanyID":1,
             "Symbol":"ENR",
-            "Price":"43.26",
+            "Price":"140.26",
             "Return":"0.03",
-            "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_de_Enron.svg/1200px-Logo_de_Enron.svg.png"
+            "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_de_Enron.svg/1200px-Logo_de_Enron.svg.png",
+            "Graph": "https://appgraphs.s3.amazonaws.com/enronGraph.PNG",
+            "Info": "https://www.fbi.gov/history/famous-cases/enron",
+            "Link": "https://www.macrotrends.net/stocks/charts/MSFT/microsoft/stock-price-history",
+            "Public": "http://www.ashmoregroup.com/"
         },
         {
             "Company":"Theranos",
             "CompanyID":2,
-            "Symbol":"ENR",
-            "Price":"405.47",
+            "Symbol":"THE",
+            "Price":"57.47",
             "Return":"0.09",
-            "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_de_Enron.svg/1200px-Logo_de_Enron.svg.png"
+            "Image":"https://uploads-ssl.webflow.com/5966ea9b9217ca534caf13d5/5da680e0bc6da7dadc893885_116%20Theranos.png",
+            "Graph": "https://appgraphs.s3.amazonaws.com/theranosGraph.PNG",
+            "Info": "https://www.wsj.com/articles/theranos-founder-elizabeth-holmes-to-face-trial-next-year-on-fraud-charges-11561754180",
+            "Link": "https://www.macrotrends.net/stocks/charts/INTC/intel/stock-price-history",
+            "Public": "http://web.archive.org/web/20190131042219/http://www.theranos.com/"
+        },
+        {
+            "Company":"Mapple",
+            "CompanyID":3,
+            "Symbol":"MAP",
+            "Price":"290.03",
+            "Return":"0.01",
+            "Image":"https://lh3.googleusercontent.com/-_wTvRW3lVys/TY0-rn1fc3I/AAAAAAAAAQc/7TBnLKuxNX0/s1600/images-20.jpeg",
+            "Graph": "https://appgraphs.s3.amazonaws.com/doormartGraph.PNG",
+            "Info": "https://www.wsj.com/market-data/quotes/AAPL",
+            "Link": "https://www.macrotrends.net/stocks/charts/AAPL/apple/stock-price-history",
+            "Public": "https://www.apple.com/business/"
+        },
+        {
+            "Company":"DoorMart",
+            "CompanyID":4,
+            "Symbol":"DOOM",
+            "Price":"123.78",
+            "Return":"-0.09",
+            "Image":"https://cdn.hipwallpaper.com/i/28/51/B8AP7K.png",
+            "Graph": "https://appgraphs.s3.amazonaws.com/doormartGraph.PNG",
+            "Info": "https://www.wsj.com/market-data/quotes/WMT",
+            "Link": "https://www.macrotrends.net/stocks/charts/WMT/walmart/stock-price-history",
+            "Public": "https://corporate.walmart.com/"
         }
     ]
 }
