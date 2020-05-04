@@ -1,0 +1,20 @@
+{
+    "FinanceData": [
+        {
+            "Company":"Enron",
+            "CompanyID":1,
+            "Symbol":"ENR",
+            "Price":"43.26",
+            "Return":"0.03",
+            "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_de_Enron.svg/1200px-Logo_de_Enron.svg.png"
+        },
+        {
+            "Company":"Theranos",
+            "CompanyID":2,
+            "Symbol":"ENR",
+            "Price":"405.47",
+            "Return":"0.09",
+            "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_de_Enron.svg/1200px-Logo_de_Enron.svg.png"
+        }
+    ]
+}
